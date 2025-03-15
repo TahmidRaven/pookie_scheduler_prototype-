@@ -169,7 +169,7 @@ class _SchedulePageState extends State<SchedulePage> {
       ],
       'Saturday': [
         {'course': 'CSE360 Lab', 'room': '10G-33L', 'time': slots[0]},
-        {'course': 'CSE321 Lab', 'room': '12D-26L', 'time': slots[1]},
+        {'course': 'CSE321 Lab', 'room': '12D-26L', 'time': slots[2]},
       ],
     };
   }
